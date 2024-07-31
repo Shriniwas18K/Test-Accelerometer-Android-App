@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "UI",
+    "slug": "UI",
+    "android": {
+      "package": "com.example.withnewarch"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "newArchEnabled": true
+          }
+        }
+      ]
+    ]
+  }
+}
